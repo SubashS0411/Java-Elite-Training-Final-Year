@@ -3,7 +3,9 @@ import java.util.Arrays;
 public class BubbleSort {
     public static void main(String[] args) {
         int[] arr = {40, 12, 85, 5, 23};
-        System.out.println(Arrays.toString(bubble(arr)));
+        Arrays.sort(arr);
+        System.out.println(Arrays.toString(arr));
+//        System.out.println(Arrays.toString(bubble(arr)));
     }
     public static int[] bubble(int[] arr){
         int n=arr.length;
