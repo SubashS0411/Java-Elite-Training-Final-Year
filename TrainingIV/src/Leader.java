@@ -19,10 +19,10 @@ public class Leader {
         System.out.println();
         Collections.reverse(list);
         System.out.println(list);
-        System.out.println(sb(arr));
+//        System.out.println(sb(arr));
     }
-    public static int[] sb(int[] arr){
-        StringBuilder sb=new StringBuilder();
-        for(int i=0;i<arr.length;i++){}
-    }
+//    public static int[] sb(int[] arr){
+//        StringBuilder sb=new StringBuilder();
+//        for(int i=0;i<arr.length;i++){}
+//    }
 }
