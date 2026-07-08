@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.HashMap;
 
 public class FirstUnique {
     public static void main(String[] args) {

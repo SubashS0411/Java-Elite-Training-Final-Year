@@ -1,0 +1,13 @@
+import java.util.Random;
+import java.util.Scanner;
+
+public class GuessingGame {
+    public static void main(String[] args) {
+        Random random = new Random();
+        Scanner s = new Scanner(System.in);
+        char playagain;
+//        do {
+//            int n = s.nextInt();
+//        }while()
+    }
+}
