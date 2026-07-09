@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ClassOperation/ClassOperation.iml" filepath="$PROJECT_DIR$/ClassOperation/ClassOperation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" filepath="$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaTrainingIV.iml" filepath="$PROJECT_DIR$/.idea/JavaTrainingIV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringProblems/StringProblems.iml" filepath="$PROJECT_DIR$/StringProblems/StringProblems.iml" />
       <module fileurl="file://$PROJECT_DIR$/TrainingIV/TrainingIV.iml" filepath="$PROJECT_DIR$/TrainingIV/TrainingIV.iml" />
