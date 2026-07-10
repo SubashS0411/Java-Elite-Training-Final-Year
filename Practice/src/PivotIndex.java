@@ -8,8 +8,8 @@ public class PivotIndex {
 //            return arr[0];
 //        }
         int leftSum=0;
-        int rightSum=0;
-        int totalSum=0;
+        int rightSum;
+        int totalSum = 0;
         for(int i:arr) {
             totalSum += i;
         }
