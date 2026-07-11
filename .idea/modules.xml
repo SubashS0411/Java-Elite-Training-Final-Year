@@ -9,7 +9,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaTrainingIV.iml" filepath="$PROJECT_DIR$/.idea/JavaTrainingIV.iml" />
       <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecallProblems/RecallProblems.iml" filepath="$PROJECT_DIR$/RecallProblems/RecallProblems.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringProblems/StringProblems.iml" filepath="$PROJECT_DIR$/StringProblems/StringProblems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/TrainingIV/TrainingIV.iml" filepath="$PROJECT_DIR$/TrainingIV/TrainingIV.iml" />
     </modules>
   </component>
