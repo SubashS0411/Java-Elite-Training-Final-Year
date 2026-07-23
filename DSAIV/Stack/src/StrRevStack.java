@@ -1,5 +1,5 @@
 import java.util.Stack;
-
+//Reverse a string using Stack
 public class StrRevStack {
     public static void main(String[] args) {
         String str = "Hello";
@@ -7,6 +7,10 @@ public class StrRevStack {
         for (int i = 0; i < str.length(); i++) {
             s.push(str.charAt(i));
         }
+//        OR
+//        for(char c:str.toCharArray()){
+//            s.push(c);
+//        }
         StringBuilder sb=new StringBuilder();
         while(!s.isEmpty()) {
             sb.append(s.pop());
@@ -14,3 +18,4 @@ public class StrRevStack {
         System.out.println(sb);
     }
 }
+
