@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/DSAIV/DSAIV.iml" filepath="$PROJECT_DIR$/DSAIV/DSAIV.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" filepath="$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/FileHandling/FileHandling.iml" filepath="$PROJECT_DIR$/FileHandling/FileHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSAIV/Hash/Hash.iml" filepath="$PROJECT_DIR$/DSAIV/Hash/Hash.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaTrainingIV.iml" filepath="$PROJECT_DIR$/.idea/JavaTrainingIV.iml" />
       <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
