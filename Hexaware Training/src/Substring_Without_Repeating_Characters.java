@@ -1,20 +1,30 @@
+import java.util.HashSet;
+import java.util.Set;
+
 public class Substring_Without_Repeating_Characters {
     public static void main(String[] args) {
         String s="abcabcbb";
-        int high=0;
-        int count=0;
-        for (int i = 0; i < s.length(); i++) {
-            if((i<s.length()-1) && (s.charAt(i)-'a')-(s.charAt(i+1)-'a')!=1){
-                count=0;
+        System.out.println(lengthOfLongestSubstring(s));
+//        System.out.println(Len(s));
+    }
+//    public static  int Len(String s){
+//
+//    }
+    public static int lengthOfLongestSubstring(String s){
+        Set<Character> set=new HashSet<>();
+        int left=0;
+        int max=0;
+        for (int right = 0; right <s.length() ; right++) {
+            char curr=s.charAt(right);
+            while (set.contains(curr)){
+                set.remove(s.charAt(left));
+                left++;
             }
-            else {
-                count++;
-                if (count > high) {
-                    high = count;
-                }
-            }
+            set.add(curr);
+            max=Math.max(max,right-left+1);
+
         }
-        System.out.println(high);
+        return max;
     }
 
 }
