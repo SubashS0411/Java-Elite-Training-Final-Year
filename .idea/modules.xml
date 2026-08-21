@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/TrainingIV/TrainingIV.iml" filepath="$PROJECT_DIR$/TrainingIV/TrainingIV.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSAIV/Trees/Trees.iml" filepath="$PROJECT_DIR$/DSAIV/Trees/Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSAIV/Trie/Trie.iml" filepath="$PROJECT_DIR$/DSAIV/Trie/Trie.iml" />
     </modules>
   </component>
 </project>
