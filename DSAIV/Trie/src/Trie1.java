@@ -8,7 +8,7 @@ public class Trie1 {
         for (int i = 0; i < word.length(); i++) {
             int index=word.charAt(i)-'a';
             if(curr.children[index]==null){
-                curr=new Trienode1();
+                curr.children[index]=new Trienode1();
             }
             curr=curr.children[index];
         }
