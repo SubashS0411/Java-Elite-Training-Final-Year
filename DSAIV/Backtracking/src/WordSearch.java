@@ -1,7 +1,7 @@
 public class WordSearch {
     public static void main(String[] args) {
         char[][] board={{'A','B','C','D'},{'S','A','A','T'},{'A','C','A','E'}};
-        System.out.println(exist(board,"CMT"));
+        System.out.println(exist(board,"CAT"));
     }
     public static boolean exist(char[][] board, String word) {
         int row= board.length,col=board[0].length;
