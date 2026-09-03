@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/FileHandling/FileHandling.iml" filepath="$PROJECT_DIR$/FileHandling/FileHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSAIV/Hash/Hash.iml" filepath="$PROJECT_DIR$/DSAIV/Hash/Hash.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hexaware Training/Hexaware Training.iml" filepath="$PROJECT_DIR$/Hexaware Training/Hexaware Training.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intervals/Intervals.iml" filepath="$PROJECT_DIR$/Intervals/Intervals.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaTrainingIV.iml" filepath="$PROJECT_DIR$/.idea/JavaTrainingIV.iml" />
       <module fileurl="file://$PROJECT_DIR$/NeetCode/NeetCode.iml" filepath="$PROJECT_DIR$/NeetCode/NeetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
