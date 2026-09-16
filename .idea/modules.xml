@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/1-D Dynamic Programming/1-D Dynamic Programming.iml" filepath="$PROJECT_DIR$/1-D Dynamic Programming/1-D Dynamic Programming.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSAIV/Backtracking/Backtracking.iml" filepath="$PROJECT_DIR$/DSAIV/Backtracking/Backtracking.iml" />
       <module fileurl="file://$PROJECT_DIR$/ClassOperation/ClassOperation.iml" filepath="$PROJECT_DIR$/ClassOperation/ClassOperation.iml" />
       <module fileurl="file://$PROJECT_DIR$/CollectionPractice/CollectionPractice.iml" filepath="$PROJECT_DIR$/CollectionPractice/CollectionPractice.iml" />
