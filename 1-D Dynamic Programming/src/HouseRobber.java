@@ -16,10 +16,13 @@ public class HouseRobber {
 
     public static int rob1(int [] nums){
         memo=new int[nums.length];
-        Arrays.fill(nums,-1);
+        Arrays.fill(memo,-1);
         return dfs1(nums,0);
     }
     public static int dfs1(int[] nums,int i){
-        return 0;
+       if(i>= nums.length) return 0;
+       if(memo[i]!=-1) return memo[i];
+       memo[i]=Math.max(dfs1(nums,i+1),nums[i]+dfs1(nums,i+2));
+       return memo[i];
     }
 }
